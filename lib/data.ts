@@ -130,18 +130,22 @@ export const skillsData = [
   {
     name: "Python",
     icon: "skill-icons:python-dark",
+    img: null,
   },
   {
     name: "C++",
     icon: "skill-icons:cpp",
+    img: null,
   },
   {
     name: "TensorFlow",
     icon: "skill-icons:tensorflow-dark",
+    img: null,
   },
   {
     name: "PyTorch",
     icon: "skill-icons:pytorch-dark",
+    img: null,
   },
   {
     name: "Keras",
@@ -166,17 +170,21 @@ export const skillsData = [
   {
     name: "Django",
     icon: "skill-icons:django",
+    img: null,
   },
   {
     name: "Flask",
     icon: "skill-icons:flask-dark",
+    img: null,
   },
   {
     name: "OpenCV",
     icon: "skill-icons:opencv-dark",
+    img: null,
   },
   {
     name: "AWS",
     icon: "skill-icons:aws-dark",
+    img: null,
   },
 ] as const;

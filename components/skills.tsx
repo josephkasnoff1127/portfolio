@@ -50,7 +50,7 @@ export default function Skills() {
             }}
             custom={index}
           >
-            {skill.img ? (
+            {skill.img != null ? (
               <Image src={skill.img} alt="" height="50" />
             ) : (
               <Icon icon={skill.icon} className="text-5xl md:text-7xl" />
